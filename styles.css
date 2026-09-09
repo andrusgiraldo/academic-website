@@ -30,7 +30,7 @@ img { display: block; max-width: 100%; }
 .eyebrow { margin: 0 0 1.25rem; color: var(--teal); text-transform: uppercase; letter-spacing: .14em; font-weight: 750; font-size: .8rem; }
 .hero h1, .page-heading h1 { margin: 0; color: #111; font: 700 clamp(4rem, 9vw, 7.8rem)/.92 var(--serif); letter-spacing: -.055em; }
 .role { margin: 1rem 0 0; color: var(--teal); font-size: clamp(1.05rem, 2vw, 1.35rem); font-weight: 700; font-style: italic; }
-.lead { max-width: 760px; margin: 2.2rem 0; font: 400 clamp(1.15rem, 2vw, 1.45rem)/1.55 var(--serif); }
+.lead { max-width: 760px; margin: 2.2rem 0; font: 400 clamp(1.15rem, 2vw, 1.45rem)/1.55 var(--serif); text-align: justify;}
 .hero-actions { display: flex; gap: .8rem; flex-wrap: wrap; }
 .button { display: inline-block; padding: .83rem 1.15rem; border: 1px solid var(--ink); text-decoration: none; font-weight: 700; }
 .button.primary { color: var(--white); background: var(--ink); }
